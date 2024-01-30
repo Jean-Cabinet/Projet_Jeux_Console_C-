@@ -1,0 +1,13 @@
+D:\Code C#\RPG\bin\Debug\RPG.exe.config
+D:\Code C#\RPG\bin\Debug\RPG.exe
+D:\Code C#\RPG\bin\Debug\RPG.pdb
+D:\Code C#\RPG\bin\Debug\Engine2.dll
+D:\Code C#\RPG\bin\Debug\Engine2.pdb
+D:\Code C#\RPG\obj\Debug\RPG.csproj.AssemblyReference.cache
+D:\Code C#\RPG\obj\Debug\RPG.Properties.Resources.resources
+D:\Code C#\RPG\obj\Debug\RPG.csproj.GenerateResource.cache
+D:\Code C#\RPG\obj\Debug\RPG.csproj.CoreCompileInputs.cache
+D:\Code C#\RPG\obj\Debug\RPG.csproj.CopyComplete
+D:\Code C#\RPG\obj\Debug\RPG.exe
+D:\Code C#\RPG\obj\Debug\RPG.pdb
+D:\Code C#\RPG\obj\Debug\RPG.RPG.resources

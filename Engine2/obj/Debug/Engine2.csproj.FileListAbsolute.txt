@@ -1,0 +1,6 @@
+D:\Code C#\Engine2\bin\Debug\Engine2.dll
+D:\Code C#\Engine2\bin\Debug\Engine2.pdb
+D:\Code C#\Engine2\obj\Debug\Engine2.csproj.AssemblyReference.cache
+D:\Code C#\Engine2\obj\Debug\Engine2.csproj.CoreCompileInputs.cache
+D:\Code C#\Engine2\obj\Debug\Engine2.dll
+D:\Code C#\Engine2\obj\Debug\Engine2.pdb
